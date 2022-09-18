@@ -1,4 +1,4 @@
-# Butyrate_paper
+# Butyrate Paper
  
 Key instructions to start analysing data
 The R code for the paper is in the Butyrate_Sept22.R file and the Seurat object utilised is called Expanded_Tregs.rds.
